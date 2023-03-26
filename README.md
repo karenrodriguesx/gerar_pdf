@@ -7,6 +7,7 @@ Curso: **ADS - 3° Semestre (Matutino)**
 Alunos: 
 - Karen Gabrielle
 - Ítalo Guerra
+- Johnathan Menezes
 
 Resultado do PDF gerado:
 
